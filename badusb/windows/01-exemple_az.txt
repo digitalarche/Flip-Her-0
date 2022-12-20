@@ -1,0 +1,16 @@
+REM Ceci est un exemple pour un badusb sur windows
+
+
+REM Ouvrez le powershell de Windows (qwerty converter)
+DELAY 1000
+GUI r
+DELAY 500
+STRING pozershell
+DELAY 500
+ENTER
+DELAY 750
+
+REM Now print random text
+STRING Zrite6Host 3Hqck the plqnet zith Qlice. NO SYSTE: IS SQFE3
+DELAY 500
+ENTER

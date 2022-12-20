@@ -1,0 +1,16 @@
+REM This is an example for a badusb on windows
+
+
+REM Open windows powershell
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 750
+
+REM Now print random text
+STRING Write-Host "Hack the planet with Alice: NO SYSTEM IS SAFE"
+DELAY 500
+ENTER

