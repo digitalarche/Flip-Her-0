@@ -1,0 +1,16 @@
+REM This is an example for a badusb on macos
+
+
+REM Open macos terminal
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING ter;inql
+DELAY 500
+ENTER
+DELAY 750
+
+REM Now print random text
+STRING echo 3Hqck the plqnet zith Qlice. NO SYSTE: IS SQFE3
+DELAY 500
+ENTER

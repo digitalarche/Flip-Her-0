@@ -13,5 +13,10 @@ exemple_az.txt      -> azerty
 - **Windows**
     - 01 - Hack the planet with alice ([qwerty](./windows/01-example_qw.txt) | [azerty](./windows/01-exemple_az.txt))
     - 02 - Deno: lock my screen ! ([qwerty](./windows/02-example_qw.txt) | [azerty](./windows/02-exemple_az.txt))
+    
+- **Macos**
+    - 01 - Hack the planet with alice ([qwerty](./macos/01-example_qw.txt) | [azerty](./macos/01-exemple_az.txt))
+    - 02 - Deno: lock my screen ! ([qwerty](./macos/02-example_qw.txt) | [azerty](./macos/02-exemple_az.txt))
+
 
 
