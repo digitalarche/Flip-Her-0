@@ -4,7 +4,7 @@ REM Open windows powershell
 DELAY 1000
 GUI r
 DELAY 500
-STRING powershell
+STRING pozershell
 DELAY 500
 ENTER
 DELAY 750
