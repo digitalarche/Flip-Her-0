@@ -1,4 +1,4 @@
-REM This Badusb will download a powershell script from a github raw and execute it, 
+REM This Badusb will download a shell script from a github raw and execute it, 
 
 REM Open macos terminal
 DELAY 1000
